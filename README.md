@@ -1,43 +1,58 @@
-
 # Hi, I'm Sneha Sri Adupa 👋
 
-Software Engineer | Java | Spring Boot | Microservices
+### Software Engineer — Java Backend · Microservices · Cloud-Native Development · Supply Chain & Enterprise Applications
 
-💼 WiseTech Global (e2open)
-📍 Hyderabad, India
-🚀 Open to Software Engineer Opportunities
+## 👩‍💻 About Me
 
-## 🛠 Tech Stack
+🏢 Software Engineer with 2+ years of experience building and supporting enterprise-scale applications at WiseTech Global (formerly e2open), contributing to global Supply Chain and Trade Compliance platforms.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+☕ I specialize in Java, Spring Boot, Microservices, and REST APIs, designing scalable backend services, optimizing application performance, and delivering reliable solutions for high-volume business workflows.
 
-## 🚀 Featured Projects
+🔧 Experienced in production support, incident management, root-cause analysis, and customer onboarding, working closely with cross-functional teams to resolve critical issues and improve system reliability.
 
-### 🎫 IRCTC Ticket Booking
-Concurrent seat booking system using Java Multithreading
+☁️ Passionate about cloud-native development, containerization, and modern engineering practices using AWS, Docker, Kubernetes, CI/CD, and automated deployment pipelines.
 
-### 👨‍💼 Employee Management App
-Spring Boot + Angular CRUD application
+🧠 Strong foundation in Data Structures & Algorithms with 400+ coding problems solved across LeetCode and HackerRank, continuously improving problem-solving and system design skills.
 
-### 🎬 Movie Review API
-REST API with Spring Boot and MySQL
+🚀 Currently exploring AI-assisted development, intelligent automation, and modern software engineering practices to build faster, more reliable, and maintainable applications.
 
-## 📊 GitHub Stats
+🛠️ Comfortable working across the full software development lifecycle — requirements analysis, development, testing, code reviews, debugging, production support, and Agile delivery.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=snehasri16&show_icons=true)
+---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasri16&layout=compact)
+## 🛠️ Tech Stack
 
-## 🔥 GitHub Streak
+### Languages
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snehasri16)
+Java · Python · JavaScript · SQL · HTML5 · CSS3
 
-## 📫 Connect
+### Backend
 
-LinkedIn: www.linkedin.com/in/snehasriadupa
+Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices · JDBC · Kafka
+
+### Frontend
+
+React.js · JavaScript · HTML · CSS · Bootstrap
+
+### Databases
+
+MySQL · Oracle SQL · MongoDB · PostgreSQL
+
+### Cloud & DevOps
+
+AWS · Docker · Kubernetes · Jenkins · Git · Linux · CI/CD
+
+### Testing & Quality
+
+JUnit · Selenium · Postman · REST Assured
+
+### Core CS
+
+Data Structures & Algorithms · OOP · System Design · Multithreading · Design Patterns · Distributed Systems
+
+### Tools & Practices
+
+Agile · Scrum · Production Support · Root Cause Analysis · Incident Management · Code Reviews
 
 
 
