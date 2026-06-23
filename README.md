@@ -3,7 +3,7 @@
 
 Software Engineer | Java | Spring Boot | Microservices
 
-💼 Ex-WiseTech Global (e2open)
+💼 WiseTech Global (e2open)
 📍 Hyderabad, India
 🚀 Open to Software Engineer Opportunities
 
