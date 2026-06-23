@@ -1,60 +1,61 @@
-# Hi, I'm Sneha Sri Adupa 👋
 
-### Software Engineer — Java Backend · Microservices · Cloud-Native Development · Supply Chain & Enterprise Applications
-
+Hi, I'm Sneha Sri Adupa 👋
 ## 👩‍💻 About Me
 
-🏢 Software Engineer with 2+ years of experience building and supporting enterprise-scale applications at WiseTech Global (formerly e2open), contributing to global Supply Chain and Trade Compliance platforms.
+🏢 Software Engineer with **2+ years of experience** building enterprise applications at **WiseTech Global (formerly e2open)** on global **Supply Chain** and **Trade Compliance** platforms.
 
-☕ I specialize in Java, Spring Boot, Microservices, and REST APIs, designing scalable backend services, optimizing application performance, and delivering reliable solutions for high-volume business workflows.
+⚙️ I work across the application stack using **Java**, **Spring Boot**, **React**, and **SQL**, developing scalable features, secure **REST APIs**, and data-driven solutions for enterprise customers.
 
-🔧 Experienced in production support, incident management, root-cause analysis, and customer onboarding, working closely with cross-functional teams to resolve critical issues and improve system reliability.
+🔧 Experienced in **end-to-end software delivery** — from requirements analysis and development to testing, **production support**, customer onboarding, and **incident resolution**.
 
-☁️ Passionate about cloud-native development, containerization, and modern engineering practices using AWS, Docker, Kubernetes, CI/CD, and automated deployment pipelines.
+☁️ Passionate about **Cloud-Native Development** and modern engineering practices using **AWS**, **Docker**, **Kubernetes**, and **CI/CD** pipelines.
 
-🧠 Strong foundation in Data Structures & Algorithms with 400+ coding problems solved across LeetCode and HackerRank, continuously improving problem-solving and system design skills.
+🧠 Strong foundation in **Data Structures & Algorithms** with **400+ coding problems solved** across LeetCode and HackerRank.
 
-🚀 Currently exploring AI-assisted development, intelligent automation, and modern software engineering practices to build faster, more reliable, and maintainable applications.
-
-🛠️ Comfortable working across the full software development lifecycle — requirements analysis, development, testing, code reviews, debugging, production support, and Agile delivery.
+🚀 Comfortable owning the **Full SDLC**, collaborating with cross-functional teams, troubleshooting critical production issues, and delivering reliable software in **Agile environments**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+**Languages:** **Java** · Python · JavaScript · SQL · HTML5 · CSS3
 
-Java · Python · JavaScript · SQL · HTML5 · CSS3
+**Backend:** **Spring Boot** · Spring Security · Hibernate · JPA · **REST APIs** · **Microservices** · Kafka
 
-### Backend
+**Frontend:** **React.js** · JavaScript · Bootstrap
 
-Spring Boot · Spring Security · Spring Data JPA · Hibernate · REST APIs · Microservices · JDBC · Kafka
+**Databases:** Oracle · MySQL · PostgreSQL · MongoDB
 
-### Frontend
+**Cloud & DevOps:** **AWS** · Docker · Kubernetes · Jenkins · Git · Linux
 
-React.js · JavaScript · HTML · CSS · Bootstrap
+**Tools & Practices:** Agile · **CI/CD** · Selenium · Postman · **Production Support** · Root Cause Analysis
 
-### Databases
+🚀 Featured Projects
+🎫 IRCTC Ticket Booking System
 
-MySQL · Oracle SQL · MongoDB · PostgreSQL
+A Java-based railway reservation system focused on concurrent seat booking, synchronization, and multithreading concepts to ensure data consistency under high user traffic.
 
-### Cloud & DevOps
+Java · Multithreading · Collections Framework · OOP
 
-AWS · Docker · Kubernetes · Jenkins · Git · Linux · CI/CD
+👨‍💼 Employee Management App
 
-### Testing & Quality
+A full-stack employee management application supporting CRUD operations, REST APIs, and database integration for efficient employee data management.
 
-JUnit · Selenium · Postman · REST Assured
+Java · Spring Boot · Angular · MySQL · REST APIs
 
-### Core CS
+🎬 Movie Review API
 
-Data Structures & Algorithms · OOP · System Design · Multithreading · Design Patterns · Distributed Systems
+A backend REST API for managing movies, reviews, ratings, and user interactions with secure and scalable service-layer architecture.
 
-### Tools & Practices
+Java · Spring Boot · JPA · MySQL · REST APIs
 
-Agile · Scrum · Production Support · Root Cause Analysis · Incident Management · Code Reviews
+⚡ Multithreading Implementation
 
+A collection of Java concurrency examples demonstrating thread lifecycle management, synchronization, executors, and concurrent programming concepts.
 
+Java · Concurrency · Executors · Synchronization
+
+📍 Open to Software Engineer, Java Developer, Backend Engineer, and SDE opportunities.
 
 <!--
 **snehasri16/snehasri16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
