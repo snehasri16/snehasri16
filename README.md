@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Sneha Sri Adupa 👋
 
 Software Engineer | Java | Spring Boot | Microservices
